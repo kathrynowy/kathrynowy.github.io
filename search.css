@@ -7021,16 +7021,16 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  margin-top: 80px; }
-
-btn.close {
-  float: right; }
+  margin-top: 90px; }
 
 .navbar-custom {
   background: #0c7b86; }
 
 .navbar-toggle .icon-bar {
   background: #fff; }
+
+.navbar-brand img {
+  height: 50px; }
 
 .navbar-custom a {
   color: #fff; }
@@ -7039,5 +7039,5 @@ btn.close {
   display: block;
   width: 50px; }
 
-.navbar-brand img {
-  height: 50px; }
+.navbar {
+  background-color: #fde9eb; }

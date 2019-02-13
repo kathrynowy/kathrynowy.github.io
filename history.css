@@ -7021,16 +7021,16 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  margin-top: 80px; }
+  margin-top: 90px; }
+
+btn.close {
+  float: right; }
 
 .navbar-custom {
   background: #0c7b86; }
 
 .navbar-toggle .icon-bar {
   background: #fff; }
-
-.navbar-brand img {
-  height: 50px; }
 
 .navbar-custom a {
   color: #fff; }
@@ -7039,7 +7039,14 @@ body {
   display: block;
   width: 50px; }
 
-a.navbar-brand {
-  /*   background-image: url('../img/plane.jpg'); */
-  background-size: 80px;
-  background-repeat: no-repeat; }
+.navbar-brand img {
+  height: 50px; }
+
+.boxHistory {
+  min-height: 246px; }
+
+.navbar {
+  background-color: #fde9eb; }
+
+.page-item {
+  float: left; }
